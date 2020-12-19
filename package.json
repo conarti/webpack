@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conarti/excel-course.git"
+    "url": "git+https://github.com/conarti/webpack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/conarti/excel-course/issues"
+    "url": "https://github.com/conarti/webpack/issues"
   },
-  "homepage": "https://github.com/conarti/excel-course#readme",
+  "homepage": "https://github.com/conarti/webpack#readme",
   "private": true,
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
